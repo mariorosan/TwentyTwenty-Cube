@@ -1,2 +1,2 @@
 # TwentyTwenty-Cube
-repository for testing purposes
+Fullpage Swiper.js Mobile Cube iin VueCLI
