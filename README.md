@@ -1,2 +1,2 @@
 # TwentyTwenty-Cube
-Fullpage Swiper.js Mobile Cube in VueCLI
+Fullpage Mobile Swiper.js Cube in VueCLI
